@@ -1,6 +1,8 @@
-# TestMsStoreWpf
+# WPF アプリを Microsoft Store に申請・登録するテストプログラム 
 
-ストアのテスト用アプリです。
+![実行イメージ](Run.png)
+
+詳細：https://shinta0806be.ldblog.jp/archives/10462152.html
 
 ## [](#PP)Privacy Policy
 
