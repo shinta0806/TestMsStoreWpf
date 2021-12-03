@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="ストアのテスト" Height="200" Width="400">
     <Grid>
-        <Label Content="Ver 2" FontSize="50" HorizontalAlignment="Center" VerticalAlignment="Center" />
+        <Label Content="Ver 3" FontSize="50" HorizontalAlignment="Center" VerticalAlignment="Center" />
     </Grid>
 </Window>
